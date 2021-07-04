@@ -1,6 +1,7 @@
 project.manifest = manifest.xml
 
 
+
 approachs60.resourcePath = $(approachs60.resourcePath);resources-ciq_2x;resources-240x240_round
 
 approachs62.resourcePath = $(approachs62.resourcePath);resources-ciq_2x;resources-260x260_round
